@@ -4,6 +4,6 @@
 
 <li>Takes wallpaper.jpg from unsplash using their api</li>
 <li>Downloads that in that respective folder where the .exe is stored</li>
-<li>Sets that wallaper.jpg as background wallpaper for Windows</li>
+<li>Sets that wallaper.jpg as background wallpaper for Windows</li> <br><br>
 
 <p>linux version is not devoloped yet</p>
