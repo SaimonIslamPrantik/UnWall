@@ -3,7 +3,7 @@ import ctypes
 import os
 
 # Step 1: Get your Unsplash Access Key and replace 'YOUR_ACCESS_KEY'
-UNSPLASH_ACCESS_KEY = 'dcp0uxjGLwwEhincRgASwwdxqLeltfhEsPxKhiq9qiw'
+UNSPLASH_ACCESS_KEY = 'SECRET'
 UNSPLASH_URL = f"https://api.unsplash.com/photos/random?client_id={UNSPLASH_ACCESS_KEY}&query=wallpaper&orientation=landscape"
 
 # Step 2: Fetch a random wallpaper from Unsplash
